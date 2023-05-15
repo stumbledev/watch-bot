@@ -1,0 +1,9 @@
+{
+	"bot": {
+		"token": "TOKEN"
+	},
+    "owners": [
+        "OWNER 1",
+        "OWNER 2"
+    ]
+}
